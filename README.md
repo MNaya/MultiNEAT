@@ -1,5 +1,9 @@
 # About MultiNEAT
 
+MultiNEAT library taken from the peter-ch repositori:
+https://github.com/peter-ch/MultiNEAT
+some changes made for direct installation in singularity.
+
 MultiNEAT is a portable software library for performing neuroevolution, a form of machine learning that
 trains neural networks with a genetic algorithm. It is based on NEAT, an advanced method for evolving
 neural networks through complexification. The neural networks in NEAT begin evolution with very simple
